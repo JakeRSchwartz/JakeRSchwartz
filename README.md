@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Machine Learning Pitch Recognition**
 
-- 🌱 I’m currently learning **Machine Learning, PyTorch Framework, Transformers**
-
 - 🔭 I’m currently working on **Personal Webpage in .NET**
+
+- 🌱 I’m currently learning **Machine Learning, PyTorch Framework, Transformers**
 
 - 💬 Ask me about **React, .NET, Machine Learning, API Development, Database Design, Web Design**
 
