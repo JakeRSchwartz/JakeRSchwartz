@@ -1,4 +1,4 @@
-![MasterHead](./Jake_Banner.png)
+![MasterHead](./gitbanner.png)
 <h1 align="center">Hello 👋, I'm Jake Schwartz</h1>
 <h3 align="center">A Passionate Computer Science Student at The University Houston</h3>
 <img align="right" alt="Code" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif">
