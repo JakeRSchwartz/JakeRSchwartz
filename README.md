@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jakerschwartz47@gmail.com**
 
-- ⚡ Fun fact **Twin, Biggest UH sports fan, and a retired gamer**
+- ⚡ Fun fact **Twin, huge sports fan, and a retired gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
