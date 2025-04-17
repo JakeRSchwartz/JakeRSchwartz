@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **React, .NET, Machine Learning, API Development, Database Design, Web Design**
 
-- 📫 How to reach me **jakerschwartz47@gmail.com**
-
 - ⚡ Fun fact **Twin, huge sports fan, and a retired gamer**
 
 <h3 align="left">Connect with me:</h3>
