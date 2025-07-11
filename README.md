@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Designing Microservices**
 
-- 🔭 I’m currently working on **Learning the vast sea of OS**
-
 - 🌱 I’m currently learning **Learning the vast sea if OS***
 
 - 💬 Ask me about **FullStack or Systems Engineering**
