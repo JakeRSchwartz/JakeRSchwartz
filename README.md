@@ -3,15 +3,15 @@
 <h3 align="center">A Passionate Computer Science Student at The University Houston</h3>
 <img align="right" alt="Code" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif">
 
-- 🔭 I’m currently working on **Machine Learning Football Tracker**
+- 🔭 I’m currently working on **Designing Microservices**
 
-- 🔭 I’m currently working on **ResuStud**
+- 🔭 I’m currently working on **Learning the vast sea if OS**
 
-- 🌱 I’m currently learning **Machine Learning, PyTorch Framework, Transformers**
+- 🌱 I’m currently learning **Learning the vast sea if OS***
 
-- 💬 Ask me about **React, .NET, Machine Learning, API Development, Database Design, Web Design**
+- 💬 Ask me about **FullStack or Systems Engineering**
 
-- ⚡ Fun fact **Twin, huge sports fan, and a retired gamer**
+- ⚡ Fun fact **I am a Twin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
