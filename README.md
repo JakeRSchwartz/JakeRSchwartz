@@ -3,13 +3,13 @@
 <h3 align="center">A Passionate Computer Science Student at The University Houston</h3>
 <img align="right" alt="Code" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif">
 
-- 🔭 I’m currently working on **Designing Microservices**
+- 🔭 I’m currently working on **designing microservices**
 
-- 🌱 I’m currently learning **Learning the vast sea of OS**
+- 🌱 I’m currently learning **learning the vast sea of OS**
 
-- 💬 Ask me about **FullStack or Systems Engineering**
+- 💬 Ask me about **fullStack or systems engineering**
 
-- ⚡ Fun fact **I am a Twin**
+- ⚡ Fun fact **I am a twin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
